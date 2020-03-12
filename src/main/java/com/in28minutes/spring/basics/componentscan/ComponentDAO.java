@@ -5,7 +5,6 @@
  */
 package com.in28minutes.spring.basics.componentscan;
 
-import com.in28minutes.spring.basics.springin5steps.scope.JdbcConnection;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
