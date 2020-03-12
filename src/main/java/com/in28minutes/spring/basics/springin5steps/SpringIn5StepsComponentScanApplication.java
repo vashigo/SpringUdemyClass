@@ -10,7 +10,7 @@ import org.springframework.context.annotation.ComponentScan;
 import com.in28minutes.spring.basics.componentscan.ComponentDAO;
 
 @SpringBootApplication
-@ComponentScan("com.in28minutes.spring.basics.componentscan")
+//@ComponentScan("com.in28minutes.spring.basics.componentscan")
 public class SpringIn5StepsComponentScanApplication {
 	
 	private static Logger LOGGER = 
